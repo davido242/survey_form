@@ -6,8 +6,6 @@ body{
 	/*background-repeat: no-repeat;*/
 }
 
-
-
 #title{
 	font-style: normal;
 	color: white;
@@ -92,25 +90,25 @@ body{
 
 input[type=text], input[type=email], input[type=number] {
 	height: 40px;
-	width: 90%;	
+	width: 90%;
 	padding-left: 20px;
 	margin-top:30px;
 	margin-bottom:20px;
 	border-radius: 5px;
 	font-size: 20px;
 
-} 
+}
 
 input[type=submit] {
 	height: 40px;
-	width: 90%;	
+	width: 90%;
 	padding-left: 20px;
 	margin-top:30px;
 	margin-bottom:20px;
 	border-radius: 5px;
 	font-size: 20px;
 
-} 
+}
 
 #eyo {
 	width: 93%;
@@ -144,6 +142,4 @@ textarea {
 	padding-top: 20px;
 	font-weight: bold;
 	font-family: arial;
-	
-	
 }
